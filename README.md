@@ -1,2 +1,26 @@
-# student-record-manager-c
-A C-based student record management system with file operations and menu-driven interaction.
+# Student Record Manager in C
+
+A menu-driven student record management system written in C with file operations.
+
+## 📌 Purpose
+This project is built to practice structured programming in C, including functions, structs, arrays, and file handling.
+
+## ✨ Features (Planned)
+- Add student
+- List all students
+- Search student by ID
+- Update student information
+- Delete student record
+- Save records to file
+- Load records from file
+
+## 🧱 Project Structure (Planned)
+- `main.c` → Program entry and menu loop
+- `student.h` → Struct and function declarations
+- `student.c` → Student record operations
+- `data.txt` → Saved student records (generated at runtime)
+
+## 🚀 Build & Run
+```bash
+gcc main.c student.c -o student_manager
+./student_manager
