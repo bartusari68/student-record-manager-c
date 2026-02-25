@@ -15,5 +15,7 @@ void listStudents(Student students[], int count);
 void searchStudentById(Student students[], int count);
 void saveToFile(Student students[], int count);
 void loadFromFile(Student students[], int *count);
+void updateStudentById(Student students[], int count);
+void deleteStudentById(Student students[], int *count);
 
 #endif
