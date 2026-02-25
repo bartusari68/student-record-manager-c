@@ -5,16 +5,14 @@ A menu-driven student record management system written in C with file operations
 ## 📌 Purpose
 This project is built to practice structured programming in C, including functions, structs, arrays, and file handling.
 
-## ✨ Features (Planned)
+## ✨ Features
 - Add student
 - List all students
 - Search student by ID
-- Update student information
-- Delete student record
 - Save records to file
 - Load records from file
 
-## 🧱 Project Structure (Planned)
+## 🧱 Project Structure
 - `main.c` → Program entry and menu loop
 - `student.h` → Struct and function declarations
 - `student.c` → Student record operations
