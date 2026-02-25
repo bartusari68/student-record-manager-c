@@ -9,6 +9,8 @@ This project is built to practice structured programming in C, including functio
 - Add student
 - List all students
 - Search student by ID
+- Update student by ID
+- Delete student by ID
 - Save records to file
 - Load records from file
 
